@@ -1,11 +1,11 @@
 # Site settings
 title: BY Blog
-SEOTitle: kelvin的博客 | BY Blog
+SEOTitle: KelvinBlog | BY Blog
 header-img: img/post-bg-desk.jpg
 email: kelvinxu0423@gmail.com
 description: "世事无常，精进不已。"
-keyword: "BY, BY Blog, kelvin的博客, xuzhipeng, 徐志鹏, JavaScript, Vue, React"
-url: "https://kelvinxu.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, KelvinBlog,xuzhipeng, JavaScript, Vue, React"
+url: "https://Xzp519.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
