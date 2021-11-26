@@ -4,8 +4,8 @@ SEOTitle: kelvin的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: kelvinxu0423@gmail.com
 description: "世事无常，精进不已。"
-keyword: "BY, BY Blog, kelvin的博客, xuzhipeng, 徐志鹏, javscript, Vue, React"
-url: "http://kelvinxu.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, kelvin的博客, xuzhipeng, 徐志鹏, JavaScript, Vue, React"
+url: "https://kelvinxu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
@@ -18,10 +18,10 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     
-github_username:    Xzp519
-facebook_username:  
-jianshu_username:   
+# zhihu_username:     
+github_username:  Xzp519
+# facebook_username:  
+# jianshu_username:   
 #twitter_username:   
 
 
